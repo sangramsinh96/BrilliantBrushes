@@ -32,5 +32,5 @@ JavaScript
 4. Payment using Stripe API
 
 ### Author:
-<a href="https://github.com/ritvikanandi">Ritvika Nandi</a>
+<a href="https://github.com/sangramsinh96">Sangramsinh V Patil</a>
 >>>>>>> master
