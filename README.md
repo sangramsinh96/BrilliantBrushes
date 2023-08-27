@@ -4,8 +4,7 @@
 # Brilliant Brushes
 
 ### Overview:
-
-1. A web application in Nodejs & Express with MongoDB as the database for painters with authentication, pagination, admin functionality, payment using Stripe and much more..
+A web application in Nodejs & Express with MongoDB as the database for painters with authentication, pagination, admin functionality, payment using Stripe and much more..
 
 ### Language:
 JavaScript
