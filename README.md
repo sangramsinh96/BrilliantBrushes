@@ -5,8 +5,7 @@
 
 ### Overview:
 
-1. Link -> https://brilliant-brushes.herokuapp.com/
-2. A web application in Nodejs & Express with MongoDB as the database for painters with authentication, pagination, admin functionality, payment using Stripe and much more..
+1. A web application in Nodejs & Express with MongoDB as the database for painters with authentication, pagination, admin functionality, payment using Stripe and much more..
 
 ### Language:
 JavaScript
